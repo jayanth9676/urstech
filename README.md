@@ -6,6 +6,7 @@ CHECK THE FRONTEND FOR TASK 2: https://drive.google.com/file/d/1RI7RRy2gOwcxT626
 
 ## Project Structure
 
+```
 urstech/
 ├── backend/
 │ └── src/
@@ -21,7 +22,7 @@ urstech/
 │ └── globals.css
 ├── tailwind.config.js
 └── package.json
-
+```
 
 ## Backend
 
