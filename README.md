@@ -1,8 +1,10 @@
-# @urstech Contact Management System
+# `URSTECH` Contact Management System
 
 This project is a full-stack application for managing contacts, integrating with FreshSales CRM and a local database. It features a Node.js backend with Express and a Next.js frontend with Tailwind CSS.
 
-CHECK THE FRONTEND FOR TASK 2: https://drive.google.com/file/d/1RI7RRy2gOwcxT626xABrwp6qGsyhUeQ5/view?usp=sharing
+`CODE`: https://github.com/jayanth9676/urstech_task2
+
+CHECK OUT THE FRONTEND FOR `TASK 2`: https://drive.google.com/file/d/1RI7RRy2gOwcxT626xABrwp6qGsyhUeQ5/view?usp=sharing
 
 ## Project Structure
 
